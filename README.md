@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript and Vue**
 
-- 👨‍💻 All of my projects are available at [(Page under development)]((Page under development))
+- 👨‍💻 All of my projects are available at (Page under development)
 
 - 📫 You can contact me by email : **felipeferreiraaguiar9@gmail.com**
 
