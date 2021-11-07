@@ -7,9 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript and Vue**
 
-- 👨‍💻 All of my projects are available at (Page under development)
-
-- 📫 You can contact me by email : **felipeferreiraaguiar9@gmail.com**
+- 👨‍💻 All of my projects are available here
 
 [![wakatime](https://wakatime.com/badge/user/17736aaf-587a-4949-b533-f080e46b052a.svg)](https://wakatime.com/@17736aaf-587a-4949-b533-f080e46b052a)
 
