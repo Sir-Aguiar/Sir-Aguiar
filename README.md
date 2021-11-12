@@ -1,11 +1,11 @@
 <h1 align="center">Sup! I'm Felipe</h1>
-<h3 align="center">I'm a Brazilian front-end developer under development</h3>
-
+<h3 align="center">I'm a brazilian junior front-end developer </h3>
+<h4 align='center'>Currently looking for a project to work on. My portfolio is under development, follow me to stay on top of my projects and leave your critics or opinions <h4/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sir-aguiar&label=Profile%20views&color=0e75b6&style=flat" alt="sir-aguiar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sir-aguiar" alt="sir-aguiar" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript and Vue**
+- 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available here
 
@@ -17,3 +17,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sir-aguiar&show_icons=true&locale=en&layout=compact" alt="sir-aguiar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sir-aguiar&show_icons=true&locale=en" alt="sir-aguiar" /></p>
+
