@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sir-aguiar" alt="sir-aguiar" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS and VueJS**
 
 - 👨‍💻 All of my projects are available here
 
