@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sir-aguiar" alt="sir-aguiar" /></a> </p>
 
-- 🌱 I’m currently learning **ReactJS and VueJS**
-
-- 👨‍💻 All of my projects are available here
-
 [![wakatime](https://wakatime.com/badge/user/17736aaf-587a-4949-b533-f080e46b052a.svg)](https://wakatime.com/@17736aaf-587a-4949-b533-f080e46b052a)
 
 <h3 align="left">Languages and Tools:</h3>
