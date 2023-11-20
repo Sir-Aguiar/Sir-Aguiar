@@ -2,7 +2,7 @@
 <h3 align="center">I love programming as much as I stress out, which is A LOT! Aways excited to learn and work </h3>
 <h4 align="center">I'm a brazilian Junior Fullstack Developer. Currently looking for an opportunity to show my potential. I like to share my knowledge and help where i can. Looking for challenges, and my way in this world</h2>
 
-- 🌱 I’m currently learning **Postgres and Sequelize**
+- 🌱 I’m currently learning **how to apply my knowledge**
 
 - 📫 How to reach me **felipeferreiraaguiar9@gmail.com**
 
