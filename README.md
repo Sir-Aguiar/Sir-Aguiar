@@ -1,16 +1,15 @@
-<h1 align="center">Hello, Felipe Aguiar</h1>
+<h1 align="center">🎇 Hello, Felipe Aguiar</h1>
 <h3 align="center">Brazilian software developer, willing to grow and learn more about computing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sir-aguiar&label=Profile%20views&color=0e75b6&style=flat" alt="sir-aguiar" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native** & **AI applications**
 
 - 🔭 Currently an intern at **MTI**
 
 - 🔮 Also working on side projects **(Avaliable soon)**
 
 - 📫 How to reach me **felipeferreiraaguiar9@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/felipe-aguiar-497651201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe-aguiar-497651201" height="30" width="40" /></a>
