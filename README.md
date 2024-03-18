@@ -1,12 +1,14 @@
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]()
+
 <h1 align="center">🎇 Hello, Felipe Aguiar</h1>
 <h3 align="center">Brazilian software developer, willing to grow and learn more about computing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sir-aguiar&label=Profile%20views&color=0e75b6&style=flat" alt="sir-aguiar" /> </p>
+<img align="right" width="200" src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif"/>
 
 - 🌱 I’m currently learning **React Native** & **AI applications**
 
 - 🔭 Currently an intern at **MTI**
-
 - 🔮 Also working on side projects **(Avaliable soon)**
 
 - 📫 How to reach me **felipeferreiraaguiar9@gmail.com**
